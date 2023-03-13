@@ -18,3 +18,6 @@ if __name__ == '__main__':
 print ("Hello World ! ")
 str = "!Bonjour ! "
 print("\n"+str)
+
+str = "comment tournez-vous ?"
+print("\n"+str)
